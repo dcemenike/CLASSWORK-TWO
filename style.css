@@ -4,7 +4,7 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 .contain div{
-    background-color: aquamarine;
+    background-color: tomato;
     width: 300px;
     height: 400px;
     border-radius: 30px;
